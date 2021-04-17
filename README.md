@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler">
-    <img src="http://www.simpleimageresizer.com/_uploads/photos/9d4f22a4/logo-square_1_128x128.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/783701974079504394/832831384434769920/logo-square.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Discord-Advanced-Event-and-Command-Handler</h3>
