@@ -53,6 +53,8 @@
     <a href="https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler/issues">Report Bug</a>
     ·
     <a href="https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler/issues">Request Feature</a>
+    ·
+    <a href="https://www.patreon.com/TirupatibalajiDev">Support Me</a>
   </p>
 </p>
 
