@@ -142,12 +142,12 @@ Project Link: [https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Tirupatibalaji-Dev/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Tirupatibalaji-Dev/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Tirupatibalaji-Dev/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Tirupatibalaji-Dev/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Tirupatibalaji-Dev/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Tirupatibalaji-Dev/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Tirupatibalaji-Dev/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Tirupatibalaji-Dev/repo/issues
-[license-shield]: https://img.shields.io/github/license/Tirupatibalaji-Dev/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler.svg?style=for-the-badge
+[contributors-url]: https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler.svg?style=for-the-badge
+[forks-url]: https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler/network/members
+[stars-shield]: https://img.shields.io/github/stars/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler.svg?style=for-the-badge
+[stars-url]: https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler.svg?style=for-the-badge
+[issues-url]: https://github.com/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler/issues
+[license-shield]: https://img.shields.io/github/license/Tirupatibalaji-Dev/Discord-Advanced-Event-and-Command-Handler.svg?style=for-the-badge
